@@ -1,5 +1,5 @@
 //<-- 問１-->
-for(var star = 1; star <= 6; star++) {
+for(var star = 1; star <= 5; star++) {
     document.write("★");
 }
 
